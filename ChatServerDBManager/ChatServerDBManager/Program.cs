@@ -9,6 +9,7 @@ namespace ChatServerDBManager
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
